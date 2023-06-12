@@ -1,4 +1,4 @@
-Greetings Platform Commons Team !
+Greetings!
 
 I am Mustafa, developer of this app !
 
