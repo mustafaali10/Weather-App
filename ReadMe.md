@@ -10,7 +10,11 @@ To Launch this Project
 6) If you're facing the issue of Classpath 8.0, just change the project structure sdk to jbr 17 from 1.8 by going to File -> Project Structure -> 
 SDK Location -> Gradle Settings -> Gradle JDK -> click jbr 17 and Okay
 
-![image](https://github.com/mustafaali10/Weather-App/assets/94534652/357dd393-b98c-48b2-9fd1-167597ab017e)
+<p align="center">
+  <img src="https://github.com/mustafaali10/Weather-App/assets/94534652/357dd393-b98c-48b2-9fd1-167597ab017e" alt="Logo">
+</p>
+
+
 
 ![Screen 3 Mustafa Android Developer Weather App ](https://github.com/mustafaali10/Weather-App/assets/94534652/eea1662d-dc39-4840-a016-1183b4bc037a)
 ![Screen 1 Mustafa Android Developer Weather App  jpg](https://github.com/mustafaali10/Weather-App/assets/94534652/87e396b5-95b2-45f9-b95a-fbd3eaab5d04)
