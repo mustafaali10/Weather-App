@@ -1,6 +1,11 @@
-Greetings!
+<p align="center">
+  <img src="https://github.com/mustafaali10/Weather-App/assets/94534652/357dd393-b98c-48b2-9fd1-167597ab017e" alt="Logo">
+</p>
 
-To Launch this Project 
+
+## Greetings!
+
+# To Launch this Project 
 
 1) Open Android Studio
 2) Navigate to the Weather App Assignment PC folder 
@@ -9,10 +14,6 @@ To Launch this Project
 5) When you see your Phone's Name , click on the Green Play Button and this should Launch the app
 6) If you're facing the issue of Classpath 8.0, just change the project structure sdk to jbr 17 from 1.8 by going to File -> Project Structure -> 
 SDK Location -> Gradle Settings -> Gradle JDK -> click jbr 17 and Okay
-
-<p align="center">
-  <img src="https://github.com/mustafaali10/Weather-App/assets/94534652/357dd393-b98c-48b2-9fd1-167597ab017e" alt="Logo">
-</p>
 
 
 
