@@ -108,8 +108,8 @@ class MainActivity : AppCompatActivity() {
                 // Fetch weather data for the searched city
                 fetchWeatherByCity(query)
                 searchView.clearFocus()
-                return true
                 progressBar.visibility=View.VISIBLE
+                return true
             }
 
             override fun onQueryTextChange(newText: String): Boolean {

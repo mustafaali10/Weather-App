@@ -18,7 +18,7 @@ class WeatherViewModel : ViewModel() {
             .create(WeatherApiService::class.java)
     }
 
-    private val apiKey = "f8db1803d69c4112ba1b162015de60ec" // Replace with your actual API key
+    private val apiKey = "0e7f1aa7483547bbb6b3094d44d4ae7d"
 
     private val _currentWeather = MutableLiveData<WeatherData>()
     val currentWeather: LiveData<WeatherData> = _currentWeather
