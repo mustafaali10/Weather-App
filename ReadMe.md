@@ -10,14 +10,18 @@ To Launch this Project
 6) If you're facing the issue of Classpath 8.0, just change the project structure sdk to jbr 17 from 1.8 by going to File -> Project Structure -> 
 SDK Location -> Gradle Settings -> Gradle JDK -> click jbr 17 and Okay
 
-![Splash Screen Mustafa Android Developer Weather App ](https://github.com/mustafaali10/Weather-App/assets/94534652/edc7bda1-002d-4779-8950-718e87bd9bcd)
+![Splash Screen Mustafa Android Developer Weather App ](https://github.com/mustafaali10/Weather-App/assets/94534652/eedfe923-2877-49a6-9a5b-fcb91aac345c)
+![Screen 3 Mustafa Android Developer Weather App ](https://github.com/mustafaali10/Weather-App/assets/94534652/eea1662d-dc39-4840-a016-1183b4bc037a)
+![Screen 1 Mustafa Android Developer Weather App  jpg](https://github.com/mustafaali10/Weather-App/assets/94534652/87e396b5-95b2-45f9-b95a-fbd3eaab5d04)
+![Screen 2 Mustafa Android Developer Weather App  jpg](https://github.com/mustafaali10/Weather-App/assets/94534652/127c5cd2-3fcb-4ae9-ac63-9877e5ca1e53)
 
 
-![Screen 1 Mustafa Android Developer Weather App  jpg](https://github.com/mustafaali10/Weather-App/assets/94534652/a326e8e4-d4ff-47a4-8ac2-8f4d8fdc5e82)
 
-![Screen 2 Mustafa Android Developer Weather App  jpg](https://github.com/mustafaali10/Weather-App/assets/94534652/c9c93c55-587e-4d91-95d9-5bf8a62cfbb0)
 
-![Screen 3 Mustafa Android Developer Weather App  jpg](https://github.com/mustafaali10/Weather-App/assets/94534652/6c49ce2e-3977-4773-adae-adbc550e6d3a)
+
+
+
+
 
 
 
